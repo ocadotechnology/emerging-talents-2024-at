@@ -6,9 +6,9 @@ layout: default
 
 Advanced Technology is a division within Ocado Technology. We focus on the development of strategic and specifically complex and emergent technologies - critical to the future of Ocado & the Ocado Smart Platform.
 
-## [What are we looking for?](https://careers.ocadogroup.com/jobs?locations=Sofia&size=10&sort=relevance&areas=Development_Engineering)
+## [What are we looking for?](https://careers.ocadogroup.com/jobs?locations=Sofia&size=10&sort=relevance&areas=Development_Engineering&q=%22Advanced+Technology%22)
 
-Passionate (under)graduates in Informatics, Computer Science or equivalent. Aptitude for learning, good communication skills, ability to work in a team - these all matter to us. Solid understanding of CS fundamentals - an absolute must. Experience with Git, some IDE, Linux - a definite plus. Detailed information can be found on [our careers website](https://careers.ocadogroup.com/jobs?locations=Sofia&size=10&sort=relevance&areas=Development_Engineering).
+Passionate (under)graduates in Informatics, Computer Science or equivalent. Aptitude for learning, good communication skills, ability to work in a team - these all matter to us. Solid understanding of CS fundamentals - an absolute must. Experience with Git, some IDE, Linux - a definite plus. Detailed information can be found on [our careers website](https://careers.ocadogroup.com/jobs?locations=Sofia&size=10&sort=relevance&areas=Development_Engineering&q=%22Advanced+Technology%22).
 
 ## [What's next?](https://github.com/ocadotechnology/emerging-talents-2024-at-exercise)
 
